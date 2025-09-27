@@ -8,11 +8,14 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "- File: `basic_auth.js`\r - Chạy: \r   ```bash\r   node basic_auth.js",
   "dependencies": {
     "cookie-parser": "^1.4.7",
     "express": "^5.1.0",
     "mongoose": "^8.18.2",
     "uuid": "^13.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
   }
 }
